@@ -1,0 +1,1 @@
+Set up REA (`npx rea-agents setup`) for Claude Code on this Mac. Install Ghidra with Homebrew if it's missing, and point REA at it with `GHIDRA_INSTALL_DIR`. Show me the setup plan with `--dry-run` and wait for my OK before applying it. Then apply it and tell me when to restart.

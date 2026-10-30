@@ -1,0 +1,1 @@
+Implement the feature specified in `{{SPEC}}` in this repository. Verify it until every "Done when" item in the spec passes. Do not stop to ask me questions; make reasonable decisions and keep going. Commit your work locally when it is done.

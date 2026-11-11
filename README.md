@@ -6,7 +6,8 @@ The prompts from the tests on my YouTube channel, [@brennenbarney](https://www.y
 |---|---|---|---|
 | Bloons Tower Defense | [prompt](bloons-td/prompt.md) | A full Bloons-style game in the browser | [I Burned 1.4 Billion Tokens Testing AI Effort Levels](https://youtu.be/OVToi81LBSI), Kimi K3.1 Pro tested |
 | Bloons, as a team | [Claude subagents](bloons-td/team-claude-subagents.md), [GPT-6 Luna subagents](bloons-td/team-luna-subagents.md) | The same game, with a planner handing all the code to cheaper subagents | Haiku 5.5 |
-| Gummy bears | [prompt](gummy-bears/prompt.md) | Translucent jelly bears you can grab, stretch, squash, throw and pour | Gemini 4 Argon, Kimi K3.1 Pro tested |
+| Cell Atlas | [prompt](cell-atlas/prompt.md) | An interactive 3D biology explorer: an animal cell, a plant cell, a white blood cell, a neuron and DNA, all built from code | Fable 5.2 |
+| Gummy bears | [prompt](gummy-bears/prompt.md) | Translucent jelly bears you can grab, stretch, squash, throw and pour | Gemini 4 Argon, Kimi K3.1 Pro tested, Fable 5.2 |
 | Landing page | [short brief](fernway-landing-page/prompt-short.md), [long brief](fernway-landing-page/prompt-long.md) | A waitlist page for Fernway, a made-up HR startup | Design skills test, Kimi K3.1 Pro tested (short brief) |
 | Notion clone | [prompt](notion-clone/prompt.md) | A working Notion-style web app, from one prompt | [Is GPT-6 Astra AGI?](https://www.youtube.com/watch?v=n_rz6KYmy9k), [Fable 5.1 vs GPT-6 Astra](https://www.youtube.com/watch?v=VhmEGMG2xgY) |
 | Jev vs Laya vs Haiku | [questions](jev-vs-laya/questions.md) | Sorting emails and support tickets, and guessing a review's stars | [I Tested Jev](https://youtu.be/iHC3YEZ8XKU) |

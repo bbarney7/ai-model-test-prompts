@@ -1,0 +1,1 @@
+Make a small playable game level as a single self-contained HTML file named index.html. Set it somewhere that would surprise the player. Give the level a name and show that name on screen when it starts.
